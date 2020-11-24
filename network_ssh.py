@@ -9,15 +9,15 @@ commands = ['show version\n', 'show run\n']
 max_buffer = 65535
 
 devices = {
-   'vEOS-1': {
-      'ip': '192.168.0.101',
-      'username': 'admin',
-      'password': 'password',
+   'hostanme': {
+      'ip': '',
+      'username': '',
+      'password': '',
       },
-   'vEOS-2': {
-      'ip': '192.168.0.102',
-      'username': 'admin',
-      'password': 'password',
+   'hostname': {
+      'ip': '',
+      'username': '',
+      'password': '',
       }
    }
 
